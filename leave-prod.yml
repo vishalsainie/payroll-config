@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Hey, welcome to payroll leave related webhook APIs"
+  contactDetails:
+    name: "Vishal saini - Developer"
+    email: "vishal.saini@ukg.com"

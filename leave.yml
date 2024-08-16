@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to payroll leave related docker APIs "
+  contactDetails:
+    name: "Vishal saini - Developer"
+    email: "vishal.saini@ukg.com"

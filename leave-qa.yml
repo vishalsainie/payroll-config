@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to payroll leave related QA APIs "
+  contactDetails:
+    name: "Vishal saini - Developer"
+    email: "vishal.saini@ukg.com"
