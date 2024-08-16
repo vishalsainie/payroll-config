@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to payroll employee related docker APIs "
+  contactDetails:
+    name: "aman khan - Developer"
+    email: "aman@ukg.com"
